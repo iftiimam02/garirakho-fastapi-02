@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gunicorn
+jinja2
+sqlalchemy
+python-multipart
+itsdangerous
+passlib
+argon2-cffi
+azure-iot-hub
+six
+psycopg2-binary==2.9.9
